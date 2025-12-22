@@ -1,0 +1,14 @@
+Package: qfast-image-toolbox
+Version: 1.0.0
+Section: graphics
+Priority: optional
+Architecture: all
+Maintainer: A. Serhat KILIÇOĞLU (shampuan) <www.github.com/shampuan>
+Depends: python3, python3-pyqt5, python3-pil, python3-pyqt5.sip | python3-sip, libqt5gui5
+Installed-Size: 1024
+Homepage: https://www.github.com/shampuan
+Description: Fast and practical image manipulation suite.
+ QFast Image Toolbox is a comprehensive set of tools for quick image 
+ adjustments. It includes modules for resizing, cropping, duplicating, 
+ adding text, censoring, inverting colors, and removing EXIF metadata. 
+ It is designed to be lightweight and easy to use with a dark-themed GUI.

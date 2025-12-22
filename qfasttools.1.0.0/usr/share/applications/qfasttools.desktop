@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=QFast Image Toolbox
+Comment=Fast and practical image manipulation suite
+Exec=python3 /usr/share/qfasttools/qfasttools.py
+Icon=/usr/share/icons/hicolor/256x256/apps/QFastTools.png
+Terminal=false
+Categories=Graphics;Qt;
+Keywords=image;edit;resize;crop;exif;
+StartupNotify=true
+GenericName=Image Editor
