@@ -3,7 +3,7 @@ Fast and Practical Image Manipulation Toolbox
 
 <img width="256" height="256" alt="QFastTools1" src="https://github.com/user-attachments/assets/867e199b-5a47-4889-be57-6360ddc78618" />
 
-Version: 1.0.0 stable
+Version: 1.1.0 stable
 
 Language: English
 
