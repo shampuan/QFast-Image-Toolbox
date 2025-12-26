@@ -11,7 +11,7 @@ Scripting language: Python3
 
 Easily edit and save your photos with the many practical tools included.
 
-<img width="630" height="684" alt="Ekran görüntüsü_2025-12-25_03-27-24" src="https://github.com/user-attachments/assets/8a82a605-766f-48f3-b0b2-2aa65d873eeb" />
+<img width="630" height="684" alt="Ekran görüntüsü_2025-12-26_08-02-33" src="https://github.com/user-attachments/assets/710b840b-3d44-4e2b-bf25-4b526a9d2062" />
 
 <img width="510" height="487" alt="Ekran görüntüsü_2025-12-23_00-51-09" src="https://github.com/user-attachments/assets/a3e36d80-5a67-480c-9d5b-9cfec07c724f" />
 
