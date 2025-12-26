@@ -10,6 +10,9 @@ from PyQt5.QtWidgets import (QApplication, QWidget, QVBoxLayout, QHBoxLayout,
 from PyQt5.QtGui import QPixmap, QColor, QPalette, QIcon
 from PyQt5.QtCore import Qt
 
+# Debian/Pardus grafik uyumluluğu
+os.environ['QT_QPA_PLATFORM'] = 'xcb'
+
 class OCRTool(QWidget):
     def __init__(self):
         super().__init__()
